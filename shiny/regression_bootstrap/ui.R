@@ -1,7 +1,7 @@
 library(shiny)
 
 fig.width <- 600
-fig.height <- 500
+fig.height <- 450
 
 shinyUI(pageWithSidebar(
   
