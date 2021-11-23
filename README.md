@@ -1,4 +1,4 @@
-Interactive apps for building statistical intuition
+Interactive apps БИ-18-1
 ===================================================
 
 This is a collection of web apps built using
