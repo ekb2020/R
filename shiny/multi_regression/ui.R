@@ -1,5 +1,7 @@
 library(shiny)
 
+# Мульти-регрессия
+
 fig.width <- 600
 fig.height <- 450
 
