@@ -51,3 +51,6 @@ shinyUI(pageWithSidebar(
   )
     
 ))
+
+
+# Span7 reg summary + reg plot
