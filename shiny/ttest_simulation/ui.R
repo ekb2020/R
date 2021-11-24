@@ -1,5 +1,7 @@
 library(shiny)
 
+#  Библиотека SHINY
+
 fig.width <- 600
 fig.height <- 350
 
