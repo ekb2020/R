@@ -14,43 +14,24 @@ Sampling and standard error
 
 [Link to Shiny app](https://supsych.shinyapps.io/sampling_and_stderr/)
 
-This example demonstrates the relationship between the standard
-deviation of a population, the standard deviation and standard error of
-the mean for a sample drawn from that population, and the expected
-distribution of means that we would obtain if we took many samples (of
-the same size) from the population. It is meant to emphasize how the
-standard error of the mean, as calculated from the sample statistics for
-a single sample, corresponds to the width of the expected distribution
-of means (under normal assumptions).
-
-Simulating t tests
+Пример 1 
 ------------------
 
 ![](shiny/ttest_simulation/screenshot.png)
 
 [Link to Shiny app](https://supsych.shinyapps.io/ttest_simulation/)
 
-This example performs 1000 one-sample t tests (with different samples
-from the same distribution) and plots the resulting histograms of t
-statistics and p values. It is possible to control both the true effect
-size (Cohen's D) and the number of observations in a sample to show how
-these two parameters relate the expected distribution of scores. When
-the effect size is 0, the simulation shows what happens when the null
-hypothesis is true.
-
-Simple linear regression
+Гистограмма / Простая линейная регрессия
 ------------------------
 
 ![](shiny/simple_regression/screenshot.png)
 
 [Link to Shiny app](https://gallery.shinyapps.io/simple_regression/)
 
-This example demonstrates the key objective of linear regression:
-finding the coefficients for a linear model that minimize the squared
-distance from each observation to the prediction made by the model at
-the same value of x.
-
-Simple logistic regression
+Здесь пробовали показать ключевую цель линейной регрессии:
+ поиск коэффициентов для линейной модели, которые минимизируют квадрат
+ расстояние от каждого наблюдения до прогноза, сделанного моделью на
+ такое же значение 
 --------------------------
 
 ![](shiny/logistic_regression/screenshot.png)
