@@ -7,7 +7,7 @@ import dash_bootstrap_components as dbc
 import numpy as np
 from scipy import stats
 
-
+#Скрипт
 # --- Define the underlying regression model
 
 rng = np.random.default_rng()
